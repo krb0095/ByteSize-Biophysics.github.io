@@ -1,11 +1,18 @@
 <h1>Mission statement</h1>
 When people hear the phrase Computational Biophysics, they are often intimidated, but the core concepts and methods can complement many science classes. The mission of this blog is to make Computational Biophysics accessible at a high school level and provide affordable additional tools to help students understand topics in chemistry, biology, and physics. As long as you have access to a computer, you can follow this blog! All programs mentioned in this blog are open source, ensuring there is no cost involved.
 
+
 Understanding the intricate world of Computational Biophysics might seem daunting initially, given its technical terminology and complex simulations. However, beneath the surface, these core principles can be a valuable asset to students across various science disciplines. This blog aims to demystify Computational Biophysics, breaking it down into digestible concepts that align seamlessly with high school curricula. By unraveling the intricacies of this field, we aspire to empower students to not only grasp the fundamentals but also discover the real-world applications that transcend traditional classroom boundaries.
 
 In pursuit of our mission, we strive to provide an array of affordable tools that go beyond standard educational resources. Our blog serves as a bridge between theoretical knowledge and practical application, offering insights that enrich the understanding of chemistry, biology, and physics. Whether you're a curious high school student, an enthusiastic teacher, or an inquisitive learner, this platform is designed to cater to your needs. The emphasis is on accessibility; all you need is a computer to embark on this educational journey. Moreover, to eliminate financial barriers, every program recommended on this blog is open source, ensuring that students can delve into Computational Biophysics without incurring any additional costs. Join us in unraveling the wonders of science through the lens of Computational Biophysics!
 
+
+
 <h1>About the Author</h1>
 Greetings! I'm Dr. Kyle Billings, and I'm thrilled to welcome you to this blog—a passion project that holds a special place in my heart. Armed with a Ph.D. in chemistry from West Virginia University, I embarked on a journey that led me to the fascinating realm of Computational Biophysics. My academic path wasn't a conventional one, as most colleges didn't offer specialized programs in this field. It was during my senior year of undergrad that I serendipitously stumbled upon Computational Biophysics, and it left an indelible mark on my academic and professional pursuits.
+
+
+
+
 
 Having navigated the academic landscape myself, I understand the challenge of discovering niche fields like Computational Biophysics in the later stages of education. Hence, this blog is not just a repository of information; it's a beacon for those who may not have encountered this field early in their academic journey. My fervent hope is that by sharing my insights, experiences, and the wonders of Computational Biophysics, this platform will empower and inspire younger individuals to explore and engage with this discipline sooner than I did. Together, let's unlock the potential of Computational Biophysics and pave the way for a new generation of curious minds.
